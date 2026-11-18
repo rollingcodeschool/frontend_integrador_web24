@@ -1,6 +1,5 @@
 ---
-description: Revisa el diff actual y genera commits semánticos siguiendo las convenciones
-del proyecto
+description: Revisa el diff actual y genera commits semánticos siguiendo las convenciones del proyecto
 agent: build
 ---
 
